@@ -1,4 +1,5 @@
 # PrintSpooferNET
+## Use SeImpersonatePrivilege Impersonate Print Server
 ## Test Enviroment
 ### Version
 ```
