@@ -21,3 +21,6 @@ KB5007273
 KB5011352
 KB5005699
 ```
+![image](https://user-images.githubusercontent.com/81568292/154411154-2b91c718-b79a-48b0-a688-8b90481a5f3a.png)
+
+refer:https://itm4n.github.io/printspoofer-abusing-impersonate-privileges/
